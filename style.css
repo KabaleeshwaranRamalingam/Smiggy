@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Extra+Condensed:ital,wght@0,1;0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,1;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400;500&family=Merriweather+Sans:wght@800&display=swap');
+
+
+
+:root {
+    --bg:white ;
+    --text:black ;
+
+    
+}
+
+.darkMode {
+    --bg: black;
+    --text: white;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: var(--bg) !important;
+}
+
+/* navbar */
+.navbar {
+    background-color: var(--bg);
+    color: var(--text);
+    width: 80vw;
+    margin: 0 auto;
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+    font-size: 25px;
+    box-shadow: 0 1px 2px gray,
+        1px 1px 10px gray;
+
+}
+
+.navbarContainer {
+    background-color: var(--bg) !;
+}
+
+.navbar-brand {
+    color: var(--text) !important;
+    font-size: 35px !important;
+
+}
+
+ul li a {
+    color: var(--text) !important;
+}
+
+ul li a:hover {
+    border-bottom: 4px solid var(--text);
+
+}
+.fa-sun{
+    margin-top: 12px;
+    margin-left: 5px;
+}
+/* homepage */
+.welcomeh1 {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 50px;
+
+}
+
+#homepage {
+    background-color: var(--bg);
+    color: var(--text);
+    height: 100vh;
+    z-index: -1;
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+    margin-top: 20px;
+}
+
+#homepage img {
+    height: 350px;
+    padding: 10px;
+}
+
+
+/* images */
+.foodImages1 {
+    width: 100vw;
+    margin-top: 100vh;
+    background-color: var(--bg);
+    display: flex;
+    padding: 20px;
+}
+
+.foodImages1 img {
+    object-fit: cover;
+}
+
+.foodImages2 {
+    background-color: var(--bg);
+    display: flex;
+    padding: 20px;
+}
+
+.foodImages2 img {
+    object-fit: cover;
+}
+
+.foodImages3 {
+    background-color: var(--bg);
+    display: flex;
+    padding: 20px;
+}
+
+.foodImages3 img {
+    object-fit: cover;
+}
+
+/* orderpage */
+.orderpage {
+    background-color: var(--bg);
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.orderpage a {
+    border: 3.5px solid var(--text) !important;
+    text-decoration: none;
+    color: var(--text);
+}
+
+/* footer */
+footer {
+    height: 60vh;
+    background-color:bisque rgb(18, 27, 51);
+    font-family: 'Gabarito', cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact  {
+    color: var(--text) !important;
+    text-align: center;
+}
+.contact a{
+    text-decoration: none;
+}
+.footerSmiggy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+}
+
+.footerh1 {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: var(--text) !important;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.footer p {
+    color: var(--text);
+    text-decoration: none;
+}
+
+.footer h1 {
+    color: red;
+}
+
+/* products */
+.foodItemsh1 {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: var(--text);
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+}
+
+.productImage {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 20px
+}
+
+.productCard {
+    text-align: center;
+    background: linear-gradient(rgb(119, 111, 111) rgb(0, 0, 0));
+    width: min-content;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: -5px -5px 10px gray;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.productCard h1 {
+    font-size: 100%;
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+    font-weight: 600;
+    color: var(--text);
+}
+
+#productSection {
+    display: flex;
+    padding: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+    font-size: larger;
+}
+
+#productSection :hover {
+    transform: scale(1.1);
+    transition-duration: 0.7s;
+    box-shadow: 3px 3px 5px gray,
+        -3px -3px 5px gray;
+}
+
+.producth1 {
+    font-size: xx-large;
+    margin-top: 20px;
+}
+
+.producth3 {
+    font-size: large;
+    color: var(--text);
+
+}

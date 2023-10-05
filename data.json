@@ -1,0 +1,961 @@
+[
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/yj6g7wugbi5qbvjtoqmr",
+        "hotel": "Nagerkovil Arya Bhavan",
+        "Location": "South Indian, Chinese , Indian - Peelamedu",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/hcezbyzjetnxbcjlprw8",
+        "hotel": "Sree Annapoorna",
+        "Location": "Indian, South Indian Sivanadha Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/6126c9b45de2cb222405c1af8a321e74",
+        "hotel": "EatFit - All Things Healthy",
+        "Location": "    Chinese, Healthy Food Saibaba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/jlqmqtcbgxu3ype0idyq",
+        "hotel": "A2B - Adyar Ananda Bhavan",
+        "Location": "South Indian, North Indian, Sweets, Chinese - Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/of4uydxfme5q5yqfoq1t",
+        "hotel": "Guru Amuthas",
+        "Location": "South Indian, North Indian, Chinese - Saravanampatty",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/owvjyogrmwhzqoynlox1",
+        "hotel": "Hotel Sri Krishna",
+        "Location": "South Indian, Indian, Chinese - Thudiyalur",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/1ace5fa65eff3e1223feb696c956b38b",
+        "hotel": "Subway",
+        "Location": "Salads, Snacks, Desserts, Beverages Saibaba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b967e49b2cd70bf6f4733588a6a178e8",
+        "hotel": "Sai Brindhavan",
+        "Location": "South Indian , Chinese - Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/zngnlqhz0d87c1f8sz89",
+        "hotel": " Sri Sai Virundhu",
+        "Location": "South Indian, Chettinad, Snacks Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/21b14e6c22678db398d9b9e5d0f937ac",
+        "hotel": "Ammayi Veedu Pot Cook",
+        "Location": "South Indian, Indian, Chinese Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/tglkocgx1bejjhxble9t",
+        "hotel": "Shree Anandhaas",
+        "Location": "South Indian, North Indian, Chinese Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/io02rlsxazhqf4oxnqug",
+        "hotel": "Thalassery Restaurant",
+        "Location": "South Indian, Arabian, Chinese,North Indian Ukkadam",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/jfljqcznsatkyqlf5yim",
+        "hotel": "Hotel Sri Saravana Bhavan",
+        "Location": "South Indian, Snacks, Chinese Saravanampatty",
+        "price": ""
+    },
+    {
+        "image": "https://hips.hearstapps.com/hmg-prod/images/220809-delish-seo-ropa-vieja-0357-eb-1660830420.jpg",
+        "hotel": "Sre Akshaya Hotels",
+        "Location": "South Indian , Chinese, SnacksSinganallur",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ef0e1cdb0fc48b9ff93b4366c1221036",
+        "hotel": "Aligarh House Biryani",
+        "Location": "Biryani, Mughlai, Kebabs, , Beverages - Saibaba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b1d030eef349d4c44a6aacb4cd0c9ba5",
+        "hotel": "Burger It Up",
+        "Location": "Burgers, Beverages, Desserts, American, Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/c447c9ce7d0bbe78e46141e866236762",
+        "hotel": "The Dessert Zone",
+        "Location": "Burgers, Beverages, Desserts, American, Cafe Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/bde8bfbd9092b770b4b6fb05232f51e1",
+        "hotel": "Paratha Box",
+        "Location": "Burgers, Beverages, Snacks,Desserts, Cafe  - Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/eeqwsj031qwrklkzt4bw",
+        "hotel": "Hotel Maa",
+        "Location": "South Indian, Indian, Beverages, Ice Cream, Chinese - Race Course",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b6fb5a0d41200a54b88be85c7d28185b",
+        "hotel": "Kaati Zone Rolls & Wraps",
+        "Location": "Fast Food, Bengali, Beverages, Desserts,Snacks - Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ybeivzbobdu7ylghyvdv",
+        "hotel": "Momo Zone - The Momo Company",
+        "Location": "Chinese, Tibetan, Fast Food - Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/kf9omujdpq73tpyfcan0",
+        "hotel": "Aagaaram Cafe",
+        "Location": "South Indian , Chinese , North Indian - Kavundampalayam",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/icebvylzmggpxmgxuqpd",
+        "hotel": "Arusuvai Atchaya Chettinad Veg",
+        "Location": "South Indian, Chinese, Chettinad, Beverages - RS Puram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/i1sejrxmqzth8zosnegx",
+        "hotel": "Kamatchi Home Restaurant",
+        "Location": "Indian - Rathinapuri",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/1a52680011ccaaf6bb97f0897ee3acc5",
+        "hotel": "Sharief Bhai",
+        "Location": "Biryani, tiffin ,Mughlai, Arabian, Kebabs, Desserts, Beverages - Rs Puram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/c583ca6ce40b426797a78ae2ac91f2ec",
+        "hotel": "Faasos' Signature Wraps & Rolls",
+        "Location": "Snacks,North ,Kebabs,fast Food, Desserts,,south - Ranganathapuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/5307ca1693edf67f1df30b2ec699fc88",
+        "hotel": "Home Plate By EatFit",
+        "Location": "North Indian, Home Food, Healthy, Desserts, Beverages - Saibaba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/brud7dxxglw8aqsjdc9h",
+        "hotel": "Pure Veg Meals By Lunchbox",
+        "Location": "Biryani, North Indian, Desserts,snacks ,  Beverages - Ranganathapuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/hlosjhn7xwschzoo8puo",
+        "hotel": "Ayyappa's Pearl Veg Restaurant",
+        "Location": "South Indian, Chinese - Kavundampalayam",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/xcyvurygduydxjopx1ai",
+        "hotel": "Hotel Aryaas",
+        "Location": "North Indian, Chinese - Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/d0kifukgn0mpsmjfkw2z",
+        "hotel": "Idly Virundhu",
+        "Location": "South Indian,chinese, North Indian- Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/f59744eb9f9b1e0722dcef167bb0d3ee",
+        "hotel": "Shree Aksshayam",
+        "Location": "South Indian, Beverages - Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/yj6g7wugbi5qbvjtoqmr",
+        "hotel": "Nagerkovil Arya Bhavan",
+        "Location": "South Indian, Chinese , Indian - Peelamedu",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/hcezbyzjetnxbcjlprw8",
+        "hotel": "Sree Annapoorna",
+        "Location": "Indian, South Indian Sivanadha Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/6126c9b45de2cb222405c1af8a321e74",
+        "hotel": "EatFit - All Things Healthy",
+        "Location": "    Chinese, Healthy Food Saibaba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/jlqmqtcbgxu3ype0idyq",
+        "hotel": "A2B - Adyar Ananda Bhavan",
+        "Location": "South Indian, North Indian, Sweets, Chinese - Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/of4uydxfme5q5yqfoq1t",
+        "hotel": "Guru Amuthas",
+        "Location": "South Indian, North Indian, Chinese - Saravanampatty",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/owvjyogrmwhzqoynlox1",
+        "hotel": "Hotel Sri Krishna",
+        "Location": "South Indian, Indian, Chinese - Thudiyalur",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/1ace5fa65eff3e1223feb696c956b38b",
+        "hotel": "Subway",
+        "Location": "Salads, Snacks, Desserts, Beverages Saibaba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b967e49b2cd70bf6f4733588a6a178e8",
+        "hotel": "Sai Brindhavan",
+        "Location": "South Indian , Chinese - Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/zngnlqhz0d87c1f8sz89",
+        "hotel": " Sri Sai Virundhu",
+        "Location": "South Indian, Chettinad, Snacks Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/21b14e6c22678db398d9b9e5d0f937ac",
+        "hotel": "Ammayi Veedu Pot Cook",
+        "Location": "South Indian, Indian, Chinese Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/tglkocgx1bejjhxble9t",
+        "hotel": "Shree Anandhaas",
+        "Location": "South Indian, North Indian, Chinese Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/io02rlsxazhqf4oxnqug",
+        "hotel": "Thalassery Restaurant",
+        "Location": "South Indian, Arabian, Chinese,North Indian Ukkadam",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/jfljqcznsatkyqlf5yim",
+        "hotel": "Hotel Sri Saravana Bhavan",
+        "Location": "South Indian, Snacks, Chinese Saravanampatty",
+        "price": ""
+    },
+    {
+        "image": "https://hips.hearstapps.com/hmg-prod/images/220809-delish-seo-ropa-vieja-0357-eb-1660830420.jpg",
+        "hotel": "Sre Akshaya Hotels",
+        "Location": "South Indian , Chinese, SnacksSinganallur",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ef0e1cdb0fc48b9ff93b4366c1221036",
+        "hotel": "Aligarh House Biryani",
+        "Location": "Biryani, Mughlai, Kebabs, , Beverages - Saibaba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b1d030eef349d4c44a6aacb4cd0c9ba5",
+        "hotel": "Burger It Up",
+        "Location": "Burgers, Beverages, Desserts, American, Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/c447c9ce7d0bbe78e46141e866236762",
+        "hotel": "The Dessert Zone",
+        "Location": "Burgers, Beverages, Desserts, American, Cafe Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/bde8bfbd9092b770b4b6fb05232f51e1",
+        "hotel": "Paratha Box",
+        "Location": "Burgers, Beverages, Snacks,Desserts, Cafe  - Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/eeqwsj031qwrklkzt4bw",
+        "hotel": "Hotel Maa",
+        "Location": "South Indian, Indian, Beverages, Ice Cream, Chinese - Race Course",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b6fb5a0d41200a54b88be85c7d28185b",
+        "hotel": "Kaati Zone Rolls & Wraps",
+        "Location": "Fast Food, Bengali, Beverages, Desserts,Snacks - Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ybeivzbobdu7ylghyvdv",
+        "hotel": "Momo Zone - The Momo Company",
+        "Location": "Chinese, Tibetan, Fast Food - Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/kf9omujdpq73tpyfcan0",
+        "hotel": "Aagaaram Cafe",
+        "Location": "South Indian , Chinese , North Indian - Kavundampalayam",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/icebvylzmggpxmgxuqpd",
+        "hotel": "Arusuvai Atchaya Chettinad Veg",
+        "Location": "South Indian, Chinese, Chettinad, Beverages - RS Puram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/i1sejrxmqzth8zosnegx",
+        "hotel": "Kamatchi Home Restaurant",
+        "Location": "Indian - Rathinapuri",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/1a52680011ccaaf6bb97f0897ee3acc5",
+        "hotel": "Sharief Bhai",
+        "Location": "Biryani, tiffin ,Mughlai, Arabian, Kebabs, Desserts, Beverages - Rs Puram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/c583ca6ce40b426797a78ae2ac91f2ec",
+        "hotel": "Faasos' Signature Wraps & Rolls",
+        "Location": "Snacks,North ,Kebabs,fast Food, Desserts,,south - Ranganathapuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/5307ca1693edf67f1df30b2ec699fc88",
+        "hotel": "Home Plate By EatFit",
+        "Location": "North Indian, Home Food, Healthy, Desserts, Beverages - Saibaba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/brud7dxxglw8aqsjdc9h",
+        "hotel": "Pure Veg Meals By Lunchbox",
+        "Location": "Biryani, North Indian, Desserts,snacks ,  Beverages - Ranganathapuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/hlosjhn7xwschzoo8puo",
+        "hotel": "Ayyappa's Pearl Veg Restaurant",
+        "Location": "South Indian, Chinese - Kavundampalayam",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/xcyvurygduydxjopx1ai",
+        "hotel": "Hotel Aryaas",
+        "Location": "North Indian, Chinese - Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/d0kifukgn0mpsmjfkw2z",
+        "hotel": "Idly Virundhu",
+        "Location": "South Indian,chinese, North Indian- Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/f59744eb9f9b1e0722dcef167bb0d3ee",
+        "hotel": "Shree Aksshayam",
+        "Location": "South Indian, Beverages - Sai Baba Colony",
+        "price": ""
+    },
+     {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/yj6g7wugbi5qbvjtoqmr",
+        "hotel": "Nagerkovil Arya Bhavan",
+        "Location": "South Indian, Chinese , Indian - Peelamedu",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/hcezbyzjetnxbcjlprw8",
+        "hotel": "Sree Annapoorna",
+        "Location": "Indian, South Indian Sivanadha Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/6126c9b45de2cb222405c1af8a321e74",
+        "hotel": "EatFit - All Things Healthy",
+        "Location": "    Chinese, Healthy Food Saibaba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/jlqmqtcbgxu3ype0idyq",
+        "hotel": "A2B - Adyar Ananda Bhavan",
+        "Location": "South Indian, North Indian, Sweets, Chinese - Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/of4uydxfme5q5yqfoq1t",
+        "hotel": "Guru Amuthas",
+        "Location": "South Indian, North Indian, Chinese - Saravanampatty",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/owvjyogrmwhzqoynlox1",
+        "hotel": "Hotel Sri Krishna",
+        "Location": "South Indian, Indian, Chinese - Thudiyalur",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/1ace5fa65eff3e1223feb696c956b38b",
+        "hotel": "Subway",
+        "Location": "Salads, Snacks, Desserts, Beverages Saibaba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b967e49b2cd70bf6f4733588a6a178e8",
+        "hotel": "Sai Brindhavan",
+        "Location": "South Indian , Chinese - Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/zngnlqhz0d87c1f8sz89",
+        "hotel": " Sri Sai Virundhu",
+        "Location": "South Indian, Chettinad, Snacks Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/21b14e6c22678db398d9b9e5d0f937ac",
+        "hotel": "Ammayi Veedu Pot Cook",
+        "Location": "South Indian, Indian, Chinese Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/tglkocgx1bejjhxble9t",
+        "hotel": "Shree Anandhaas",
+        "Location": "South Indian, North Indian, Chinese Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/io02rlsxazhqf4oxnqug",
+        "hotel": "Thalassery Restaurant",
+        "Location": "South Indian, Arabian, Chinese,North Indian Ukkadam",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/jfljqcznsatkyqlf5yim",
+        "hotel": "Hotel Sri Saravana Bhavan",
+        "Location": "South Indian, Snacks, Chinese Saravanampatty",
+        "price": ""
+    },
+    {
+        "image": "https://hips.hearstapps.com/hmg-prod/images/220809-delish-seo-ropa-vieja-0357-eb-1660830420.jpg",
+        "hotel": "Sre Akshaya Hotels",
+        "Location": "South Indian , Chinese, SnacksSinganallur",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ef0e1cdb0fc48b9ff93b4366c1221036",
+        "hotel": "Aligarh House Biryani",
+        "Location": "Biryani, Mughlai, Kebabs, , Beverages - Saibaba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b1d030eef349d4c44a6aacb4cd0c9ba5",
+        "hotel": "Burger It Up",
+        "Location": "Burgers, Beverages, Desserts, American, Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/c447c9ce7d0bbe78e46141e866236762",
+        "hotel": "The Dessert Zone",
+        "Location": "Burgers, Beverages, Desserts, American, Cafe Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/bde8bfbd9092b770b4b6fb05232f51e1",
+        "hotel": "Paratha Box",
+        "Location": "Burgers, Beverages, Snacks,Desserts, Cafe  - Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/eeqwsj031qwrklkzt4bw",
+        "hotel": "Hotel Maa",
+        "Location": "South Indian, Indian, Beverages, Ice Cream, Chinese - Race Course",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b6fb5a0d41200a54b88be85c7d28185b",
+        "hotel": "Kaati Zone Rolls & Wraps",
+        "Location": "Fast Food, Bengali, Beverages, Desserts,Snacks - Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ybeivzbobdu7ylghyvdv",
+        "hotel": "Momo Zone - The Momo Company",
+        "Location": "Chinese, Tibetan, Fast Food - Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/kf9omujdpq73tpyfcan0",
+        "hotel": "Aagaaram Cafe",
+        "Location": "South Indian , Chinese , North Indian - Kavundampalayam",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/icebvylzmggpxmgxuqpd",
+        "hotel": "Arusuvai Atchaya Chettinad Veg",
+        "Location": "South Indian, Chinese, Chettinad, Beverages - RS Puram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/i1sejrxmqzth8zosnegx",
+        "hotel": "Kamatchi Home Restaurant",
+        "Location": "Indian - Rathinapuri",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/1a52680011ccaaf6bb97f0897ee3acc5",
+        "hotel": "Sharief Bhai",
+        "Location": "Biryani, tiffin ,Mughlai, Arabian, Kebabs, Desserts, Beverages - Rs Puram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/c583ca6ce40b426797a78ae2ac91f2ec",
+        "hotel": "Faasos' Signature Wraps & Rolls",
+        "Location": "Snacks,North ,Kebabs,fast Food, Desserts,,south - Ranganathapuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/5307ca1693edf67f1df30b2ec699fc88",
+        "hotel": "Home Plate By EatFit",
+        "Location": "North Indian, Home Food, Healthy, Desserts, Beverages - Saibaba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/brud7dxxglw8aqsjdc9h",
+        "hotel": "Pure Veg Meals By Lunchbox",
+        "Location": "Biryani, North Indian, Desserts,snacks ,  Beverages - Ranganathapuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/hlosjhn7xwschzoo8puo",
+        "hotel": "Ayyappa's Pearl Veg Restaurant",
+        "Location": "South Indian, Chinese - Kavundampalayam",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/xcyvurygduydxjopx1ai",
+        "hotel": "Hotel Aryaas",
+        "Location": "North Indian, Chinese - Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/d0kifukgn0mpsmjfkw2z",
+        "hotel": "Idly Virundhu",
+        "Location": "South Indian,chinese, North Indian- Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/f59744eb9f9b1e0722dcef167bb0d3ee",
+        "hotel": "Shree Aksshayam",
+        "Location": "South Indian, Beverages - Sai Baba Colony",
+        "price": ""
+    }, {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/yj6g7wugbi5qbvjtoqmr",
+        "hotel": "Nagerkovil Arya Bhavan",
+        "Location": "South Indian, Chinese , Indian - Peelamedu",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/hcezbyzjetnxbcjlprw8",
+        "hotel": "Sree Annapoorna",
+        "Location": "Indian, South Indian Sivanadha Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/6126c9b45de2cb222405c1af8a321e74",
+        "hotel": "EatFit - All Things Healthy",
+        "Location": "    Chinese, Healthy Food Saibaba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/jlqmqtcbgxu3ype0idyq",
+        "hotel": "A2B - Adyar Ananda Bhavan",
+        "Location": "South Indian, North Indian, Sweets, Chinese - Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/of4uydxfme5q5yqfoq1t",
+        "hotel": "Guru Amuthas",
+        "Location": "South Indian, North Indian, Chinese - Saravanampatty",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/owvjyogrmwhzqoynlox1",
+        "hotel": "Hotel Sri Krishna",
+        "Location": "South Indian, Indian, Chinese - Thudiyalur",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/1ace5fa65eff3e1223feb696c956b38b",
+        "hotel": "Subway",
+        "Location": "Salads, Snacks, Desserts, Beverages Saibaba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b967e49b2cd70bf6f4733588a6a178e8",
+        "hotel": "Sai Brindhavan",
+        "Location": "South Indian , Chinese - Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/zngnlqhz0d87c1f8sz89",
+        "hotel": " Sri Sai Virundhu",
+        "Location": "South Indian, Chettinad, Snacks Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/21b14e6c22678db398d9b9e5d0f937ac",
+        "hotel": "Ammayi Veedu Pot Cook",
+        "Location": "South Indian, Indian, Chinese Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/tglkocgx1bejjhxble9t",
+        "hotel": "Shree Anandhaas",
+        "Location": "South Indian, North Indian, Chinese Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/io02rlsxazhqf4oxnqug",
+        "hotel": "Thalassery Restaurant",
+        "Location": "South Indian, Arabian, Chinese,North Indian Ukkadam",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/jfljqcznsatkyqlf5yim",
+        "hotel": "Hotel Sri Saravana Bhavan",
+        "Location": "South Indian, Snacks, Chinese Saravanampatty",
+        "price": ""
+    },
+    {
+        "image": "https://hips.hearstapps.com/hmg-prod/images/220809-delish-seo-ropa-vieja-0357-eb-1660830420.jpg",
+        "hotel": "Sre Akshaya Hotels",
+        "Location": "South Indian , Chinese, SnacksSinganallur",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ef0e1cdb0fc48b9ff93b4366c1221036",
+        "hotel": "Aligarh House Biryani",
+        "Location": "Biryani, Mughlai, Kebabs, , Beverages - Saibaba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b1d030eef349d4c44a6aacb4cd0c9ba5",
+        "hotel": "Burger It Up",
+        "Location": "Burgers, Beverages, Desserts, American, Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/c447c9ce7d0bbe78e46141e866236762",
+        "hotel": "The Dessert Zone",
+        "Location": "Burgers, Beverages, Desserts, American, Cafe Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/bde8bfbd9092b770b4b6fb05232f51e1",
+        "hotel": "Paratha Box",
+        "Location": "Burgers, Beverages, Snacks,Desserts, Cafe  - Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/eeqwsj031qwrklkzt4bw",
+        "hotel": "Hotel Maa",
+        "Location": "South Indian, Indian, Beverages, Ice Cream, Chinese - Race Course",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b6fb5a0d41200a54b88be85c7d28185b",
+        "hotel": "Kaati Zone Rolls & Wraps",
+        "Location": "Fast Food, Bengali, Beverages, Desserts,Snacks - Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ybeivzbobdu7ylghyvdv",
+        "hotel": "Momo Zone - The Momo Company",
+        "Location": "Chinese, Tibetan, Fast Food - Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/kf9omujdpq73tpyfcan0",
+        "hotel": "Aagaaram Cafe",
+        "Location": "South Indian , Chinese , North Indian - Kavundampalayam",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/icebvylzmggpxmgxuqpd",
+        "hotel": "Arusuvai Atchaya Chettinad Veg",
+        "Location": "South Indian, Chinese, Chettinad, Beverages - RS Puram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/i1sejrxmqzth8zosnegx",
+        "hotel": "Kamatchi Home Restaurant",
+        "Location": "Indian - Rathinapuri",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/1a52680011ccaaf6bb97f0897ee3acc5",
+        "hotel": "Sharief Bhai",
+        "Location": "Biryani, tiffin ,Mughlai, Arabian, Kebabs, Desserts, Beverages - Rs Puram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/c583ca6ce40b426797a78ae2ac91f2ec",
+        "hotel": "Faasos' Signature Wraps & Rolls",
+        "Location": "Snacks,North ,Kebabs,fast Food, Desserts,,south - Ranganathapuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/5307ca1693edf67f1df30b2ec699fc88",
+        "hotel": "Home Plate By EatFit",
+        "Location": "North Indian, Home Food, Healthy, Desserts, Beverages - Saibaba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/brud7dxxglw8aqsjdc9h",
+        "hotel": "Pure Veg Meals By Lunchbox",
+        "Location": "Biryani, North Indian, Desserts,snacks ,  Beverages - Ranganathapuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/hlosjhn7xwschzoo8puo",
+        "hotel": "Ayyappa's Pearl Veg Restaurant",
+        "Location": "South Indian, Chinese - Kavundampalayam",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/xcyvurygduydxjopx1ai",
+        "hotel": "Hotel Aryaas",
+        "Location": "North Indian, Chinese - Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/d0kifukgn0mpsmjfkw2z",
+        "hotel": "Idly Virundhu",
+        "Location": "South Indian,chinese, North Indian- Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/f59744eb9f9b1e0722dcef167bb0d3ee",
+        "hotel": "Shree Aksshayam",
+        "Location": "South Indian, Beverages - Sai Baba Colony",
+        "price": ""
+    }, 
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/yj6g7wugbi5qbvjtoqmr",
+        "hotel": "Nagerkovil Arya Bhavan",
+        "Location": "South Indian, Chinese , Indian - Peelamedu",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/hcezbyzjetnxbcjlprw8",
+        "hotel": "Sree Annapoorna",
+        "Location": "Indian, South Indian Sivanadha Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/6126c9b45de2cb222405c1af8a321e74",
+        "hotel": "EatFit - All Things Healthy",
+        "Location": "    Chinese, Healthy Food Saibaba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/jlqmqtcbgxu3ype0idyq",
+        "hotel": "A2B - Adyar Ananda Bhavan",
+        "Location": "South Indian, North Indian, Sweets, Chinese - Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/of4uydxfme5q5yqfoq1t",
+        "hotel": "Guru Amuthas",
+        "Location": "South Indian, North Indian, Chinese - Saravanampatty",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/owvjyogrmwhzqoynlox1",
+        "hotel": "Hotel Sri Krishna",
+        "Location": "South Indian, Indian, Chinese - Thudiyalur",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/1ace5fa65eff3e1223feb696c956b38b",
+        "hotel": "Subway",
+        "Location": "Salads, Snacks, Desserts, Beverages Saibaba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b967e49b2cd70bf6f4733588a6a178e8",
+        "hotel": "Sai Brindhavan",
+        "Location": "South Indian , Chinese - Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/zngnlqhz0d87c1f8sz89",
+        "hotel": " Sri Sai Virundhu",
+        "Location": "South Indian, Chettinad, Snacks Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/21b14e6c22678db398d9b9e5d0f937ac",
+        "hotel": "Ammayi Veedu Pot Cook",
+        "Location": "South Indian, Indian, Chinese Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/tglkocgx1bejjhxble9t",
+        "hotel": "Shree Anandhaas",
+        "Location": "South Indian, North Indian, Chinese Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/io02rlsxazhqf4oxnqug",
+        "hotel": "Thalassery Restaurant",
+        "Location": "South Indian, Arabian, Chinese,North Indian Ukkadam",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/jfljqcznsatkyqlf5yim",
+        "hotel": "Hotel Sri Saravana Bhavan",
+        "Location": "South Indian, Snacks, Chinese Saravanampatty",
+        "price": ""
+    },
+    {
+        "image": "https://hips.hearstapps.com/hmg-prod/images/220809-delish-seo-ropa-vieja-0357-eb-1660830420.jpg",
+        "hotel": "Sre Akshaya Hotels",
+        "Location": "South Indian , Chinese, SnacksSinganallur",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ef0e1cdb0fc48b9ff93b4366c1221036",
+        "hotel": "Aligarh House Biryani",
+        "Location": "Biryani, Mughlai, Kebabs, , Beverages - Saibaba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b1d030eef349d4c44a6aacb4cd0c9ba5",
+        "hotel": "Burger It Up",
+        "Location": "Burgers, Beverages, Desserts, American, Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/c447c9ce7d0bbe78e46141e866236762",
+        "hotel": "The Dessert Zone",
+        "Location": "Burgers, Beverages, Desserts, American, Cafe Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/bde8bfbd9092b770b4b6fb05232f51e1",
+        "hotel": "Paratha Box",
+        "Location": "Burgers, Beverages, Snacks,Desserts, Cafe  - Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/eeqwsj031qwrklkzt4bw",
+        "hotel": "Hotel Maa",
+        "Location": "South Indian, Indian, Beverages, Ice Cream, Chinese - Race Course",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b6fb5a0d41200a54b88be85c7d28185b",
+        "hotel": "Kaati Zone Rolls & Wraps",
+        "Location": "Fast Food, Bengali, Beverages, Desserts,Snacks - Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ybeivzbobdu7ylghyvdv",
+        "hotel": "Momo Zone - The Momo Company",
+        "Location": "Chinese, Tibetan, Fast Food - Sai Baba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/kf9omujdpq73tpyfcan0",
+        "hotel": "Aagaaram Cafe",
+        "Location": "South Indian , Chinese , North Indian - Kavundampalayam",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/icebvylzmggpxmgxuqpd",
+        "hotel": "Arusuvai Atchaya Chettinad Veg",
+        "Location": "South Indian, Chinese, Chettinad, Beverages - RS Puram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/i1sejrxmqzth8zosnegx",
+        "hotel": "Kamatchi Home Restaurant",
+        "Location": "Indian - Rathinapuri",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/1a52680011ccaaf6bb97f0897ee3acc5",
+        "hotel": "Sharief Bhai",
+        "Location": "Biryani, tiffin ,Mughlai, Arabian, Kebabs, Desserts, Beverages - Rs Puram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/c583ca6ce40b426797a78ae2ac91f2ec",
+        "hotel": "Faasos' Signature Wraps & Rolls",
+        "Location": "Snacks,North ,Kebabs,fast Food, Desserts,,south - Ranganathapuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/5307ca1693edf67f1df30b2ec699fc88",
+        "hotel": "Home Plate By EatFit",
+        "Location": "North Indian, Home Food, Healthy, Desserts, Beverages - Saibaba Colony",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/brud7dxxglw8aqsjdc9h",
+        "hotel": "Pure Veg Meals By Lunchbox",
+        "Location": "Biryani, North Indian, Desserts,snacks ,  Beverages - Ranganathapuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/hlosjhn7xwschzoo8puo",
+        "hotel": "Ayyappa's Pearl Veg Restaurant",
+        "Location": "South Indian, Chinese - Kavundampalayam",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/xcyvurygduydxjopx1ai",
+        "hotel": "Hotel Aryaas",
+        "Location": "North Indian, Chinese - Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/d0kifukgn0mpsmjfkw2z",
+        "hotel": "Idly Virundhu",
+        "Location": "South Indian,chinese, North Indian- Gandhipuram",
+        "price": ""
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/f59744eb9f9b1e0722dcef167bb0d3ee",
+        "hotel": "Shree Aksshayam",
+        "Location": "South Indian, Beverages - Sai Baba Colony",
+        "price": ""
+    }
+]
